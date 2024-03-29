@@ -1,4 +1,4 @@
-This is the discord nitro generator
-You can generate a nitro boost with proxies
-
-# Getting Started Steps:
+# Made By DarkX
+# Discord Nitro Generator
+This is my Discord Nitro Generator
+```asda```
