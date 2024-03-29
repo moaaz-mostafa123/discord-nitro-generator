@@ -11,6 +11,7 @@ Second, Install required packages
 ```bash
 pip install requests
 pip install random
+pip install string
 ```
 Third, Open folder and Enjoy with Generator
 ```bash
